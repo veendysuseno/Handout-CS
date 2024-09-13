@@ -70,7 +70,7 @@ Menjelaskan pola desain perangkat lunak seperti Singleton, Factory, Observer, da
 
 1. Clone repositori ini:
    ```bash
-   git clone [(https://github.com/veendysuseno/Handout-CS)]
+   git clone https://github.com/veendysuseno/Handout-CS/
    ```
 2. Akses direktori handout:
     ```bash
