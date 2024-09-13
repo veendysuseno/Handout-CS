@@ -1,0 +1,14 @@
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Struct and Ref vs Val Type\TypeStructs\bin\Debug\TypeStructs.exe.config
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Struct and Ref vs Val Type\TypeStructs\bin\Debug\TypeStructs.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Struct and Ref vs Val Type\TypeStructs\bin\Debug\TypeStructs.pdb
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Struct and Ref vs Val Type\TypeStructs\obj\Debug\TypeStructs.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Struct and Ref vs Val Type\TypeStructs\obj\Debug\TypeStructs.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Struct and Ref vs Val Type\TypeStructs\obj\Debug\TypeStructs.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Struct and Ref vs Val Type\TypeStructs\obj\Debug\TypeStructs.pdb
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\3 Struct and Ref vs Val Type\TypeStructs\bin\Debug\TypeStructs.exe.config
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\3 Struct and Ref vs Val Type\TypeStructs\bin\Debug\TypeStructs.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\3 Struct and Ref vs Val Type\TypeStructs\bin\Debug\TypeStructs.pdb
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\3 Struct and Ref vs Val Type\TypeStructs\obj\Debug\TypeStructs.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\3 Struct and Ref vs Val Type\TypeStructs\obj\Debug\TypeStructs.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\3 Struct and Ref vs Val Type\TypeStructs\obj\Debug\TypeStructs.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\3 Struct and Ref vs Val Type\TypeStructs\obj\Debug\TypeStructs.pdb

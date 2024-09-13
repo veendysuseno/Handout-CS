@@ -1,0 +1,13 @@
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\bin\Debug\netcoreapp3.1\WhyThreadPool.exe
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\bin\Debug\netcoreapp3.1\WhyThreadPool.deps.json
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\bin\Debug\netcoreapp3.1\WhyThreadPool.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\bin\Debug\netcoreapp3.1\WhyThreadPool.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\bin\Debug\netcoreapp3.1\WhyThreadPool.dll
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\bin\Debug\netcoreapp3.1\WhyThreadPool.pdb
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\obj\Debug\netcoreapp3.1\WhyThreadPool.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\obj\Debug\netcoreapp3.1\WhyThreadPool.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\obj\Debug\netcoreapp3.1\WhyThreadPool.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\obj\Debug\netcoreapp3.1\WhyThreadPool.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\obj\Debug\netcoreapp3.1\WhyThreadPool.dll
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\obj\Debug\netcoreapp3.1\WhyThreadPool.pdb
+D:\Training Program\C#\9 Parallel Processing\8 WhyThreadPool\WhyThreadPool\obj\Debug\netcoreapp3.1\WhyThreadPool.genruntimeconfig.cache

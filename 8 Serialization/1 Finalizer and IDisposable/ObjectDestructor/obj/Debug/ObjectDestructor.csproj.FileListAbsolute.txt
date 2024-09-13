@@ -1,0 +1,14 @@
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\ObjectDestructor\ObjectDestructor\bin\Debug\ObjectDestructor.exe.config
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\ObjectDestructor\ObjectDestructor\bin\Debug\ObjectDestructor.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\ObjectDestructor\ObjectDestructor\bin\Debug\ObjectDestructor.pdb
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\ObjectDestructor\ObjectDestructor\obj\Debug\ObjectDestructor.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\ObjectDestructor\ObjectDestructor\obj\Debug\ObjectDestructor.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\ObjectDestructor\ObjectDestructor\obj\Debug\ObjectDestructor.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\ObjectDestructor\ObjectDestructor\obj\Debug\ObjectDestructor.pdb
+D:\Training Program\C#\8 Serialization\1 Finalizer and IDisposable\ObjectDestructor\bin\Debug\ObjectDestructor.exe.config
+D:\Training Program\C#\8 Serialization\1 Finalizer and IDisposable\ObjectDestructor\bin\Debug\ObjectDestructor.exe
+D:\Training Program\C#\8 Serialization\1 Finalizer and IDisposable\ObjectDestructor\bin\Debug\ObjectDestructor.pdb
+D:\Training Program\C#\8 Serialization\1 Finalizer and IDisposable\ObjectDestructor\obj\Debug\ObjectDestructor.csprojAssemblyReference.cache
+D:\Training Program\C#\8 Serialization\1 Finalizer and IDisposable\ObjectDestructor\obj\Debug\ObjectDestructor.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\8 Serialization\1 Finalizer and IDisposable\ObjectDestructor\obj\Debug\ObjectDestructor.exe
+D:\Training Program\C#\8 Serialization\1 Finalizer and IDisposable\ObjectDestructor\obj\Debug\ObjectDestructor.pdb

@@ -1,0 +1,7 @@
+C:\Users\Boby\Desktop\C# Training Program\4 Modular Programming\3 Global And Local Variable\GlobalAndLocalVariable\bin\Debug\GlobalAndLocalVariable.exe.config
+C:\Users\Boby\Desktop\C# Training Program\4 Modular Programming\3 Global And Local Variable\GlobalAndLocalVariable\bin\Debug\GlobalAndLocalVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\4 Modular Programming\3 Global And Local Variable\GlobalAndLocalVariable\bin\Debug\GlobalAndLocalVariable.pdb
+C:\Users\Boby\Desktop\C# Training Program\4 Modular Programming\3 Global And Local Variable\GlobalAndLocalVariable\obj\Debug\GlobalAndLocalVariable.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\4 Modular Programming\3 Global And Local Variable\GlobalAndLocalVariable\obj\Debug\GlobalAndLocalVariable.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\4 Modular Programming\3 Global And Local Variable\GlobalAndLocalVariable\obj\Debug\GlobalAndLocalVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\4 Modular Programming\3 Global And Local Variable\GlobalAndLocalVariable\obj\Debug\GlobalAndLocalVariable.pdb

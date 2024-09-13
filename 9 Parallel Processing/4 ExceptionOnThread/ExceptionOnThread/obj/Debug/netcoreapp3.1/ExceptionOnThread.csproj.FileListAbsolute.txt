@@ -1,0 +1,26 @@
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.exe
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.deps.json
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.dll
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.pdb
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.dll
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.pdb
+D:\Training Program\C#\9 Parallel Processing\ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.genruntimeconfig.cache
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.exe
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.deps.json
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.dll
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\bin\Debug\netcoreapp3.1\ExceptionOnThread.pdb
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.dll
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.pdb
+D:\Training Program\C#\9 Parallel Processing\4 ExceptionOnThread\ExceptionOnThread\obj\Debug\netcoreapp3.1\ExceptionOnThread.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Small Bus",
+    "Cost": 1000000
+  },
+  {
+    "Name": "Medium Bus",
+    "Cost": 1500000
+  },
+  {
+    "Name": "Big Bus",
+    "Cost": 2000000
+  }
+]

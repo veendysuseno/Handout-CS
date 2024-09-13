@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Toko xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/SerializingDataContract.Models">
+  <Alamat>Jakarta, Taman Ratu</Alamat>
+  <Id>3</Id>
+  <Nama>Indomaret</Nama>
+  <ProdukDijual>
+    <Produk>
+      <Deskripsi>Makanan ringan sehat yang baik untuk pencernaan.</Deskripsi>
+      <Harga>25000</Harga>
+      <Id>2</Id>
+      <Nama>Biscuit Regal</Nama>
+      <Stok>250</Stok>
+    </Produk>
+    <Produk>
+      <Deskripsi>Susu Fermentasi</Deskripsi>
+      <Harga>15000</Harga>
+      <Id>4</Id>
+      <Nama>Yakult</Nama>
+      <Stok>50</Stok>
+    </Produk>
+  </ProdukDijual>
+</Toko>

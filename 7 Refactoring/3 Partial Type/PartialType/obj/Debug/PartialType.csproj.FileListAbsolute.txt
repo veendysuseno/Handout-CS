@@ -1,0 +1,7 @@
+C:\Users\Boby\Desktop\C# Training Program\9. Other Feature\PartialType\PartialType\obj\Debug\PartialType.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\9. Other Feature\PartialType\PartialType\obj\Debug\PartialType.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\9. Other Feature\PartialType\PartialType\bin\Debug\PartialType.exe.config
+C:\Users\Boby\Desktop\C# Training Program\9. Other Feature\PartialType\PartialType\bin\Debug\PartialType.exe
+C:\Users\Boby\Desktop\C# Training Program\9. Other Feature\PartialType\PartialType\bin\Debug\PartialType.pdb
+C:\Users\Boby\Desktop\C# Training Program\9. Other Feature\PartialType\PartialType\obj\Debug\PartialType.exe
+C:\Users\Boby\Desktop\C# Training Program\9. Other Feature\PartialType\PartialType\obj\Debug\PartialType.pdb

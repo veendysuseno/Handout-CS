@@ -1,0 +1,39 @@
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.csprojAssemblyReference.cache
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.AssemblyInfoInputs.cache
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.AssemblyInfo.cs
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.csproj.CoreCompileInputs.cache
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.exe
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.deps.json
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.runtimeconfig.json
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.runtimeconfig.dev.json
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.dll
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.pdb
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.dll
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.pdb
+C:\Users\Boby Widjaja\Desktop\9 Parallel Processing\ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.genruntimeconfig.cache
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.exe
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.deps.json
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.dll
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.pdb
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.dll
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.pdb
+D:\Training Program\C#\9 Parallel Processing\2 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.genruntimeconfig.cache
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.exe
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.deps.json
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.dll
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\bin\Debug\netcoreapp3.1\ThreadLock.pdb
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.dll
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.pdb
+D:\Training Program\C#\9 Parallel Processing\3 ThreadLock\ThreadLock\obj\Debug\netcoreapp3.1\ThreadLock.genruntimeconfig.cache

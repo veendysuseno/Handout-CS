@@ -1,0 +1,22 @@
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\bin\Debug\IntroductionToVariable.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\bin\Debug\IntroductionToVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\bin\Debug\IntroductionToVariable.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\bin\Debug\IntroductionToVariable.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\bin\Debug\IntroductionToVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\bin\Debug\IntroductionToVariable.pdb
+D:\C#\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\bin\Debug\IntroductionToVariable.exe.config
+D:\C#\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\bin\Debug\IntroductionToVariable.exe
+D:\C#\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\bin\Debug\IntroductionToVariable.pdb
+D:\C#\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.csproj.AssemblyReference.cache
+D:\C#\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.csproj.SuggestedBindingRedirects.cache
+D:\C#\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.csproj.CoreCompileInputs.cache
+D:\C#\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.exe
+D:\C#\1 Data Type and Operator\1 IntroductionToVariable\IntroductionToVariable\obj\Debug\IntroductionToVariable.pdb

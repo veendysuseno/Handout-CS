@@ -1,0 +1,7 @@
+D:\Training Program\C#\6 Advance OOP\5 Anonymous Object\AnonymousType\AnonymousType\bin\Debug\AnonymousType.exe.config
+D:\Training Program\C#\6 Advance OOP\5 Anonymous Object\AnonymousType\AnonymousType\bin\Debug\AnonymousType.exe
+D:\Training Program\C#\6 Advance OOP\5 Anonymous Object\AnonymousType\AnonymousType\bin\Debug\AnonymousType.pdb
+D:\Training Program\C#\6 Advance OOP\5 Anonymous Object\AnonymousType\AnonymousType\obj\Debug\AnonymousType.csprojAssemblyReference.cache
+D:\Training Program\C#\6 Advance OOP\5 Anonymous Object\AnonymousType\AnonymousType\obj\Debug\AnonymousType.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\6 Advance OOP\5 Anonymous Object\AnonymousType\AnonymousType\obj\Debug\AnonymousType.exe
+D:\Training Program\C#\6 Advance OOP\5 Anonymous Object\AnonymousType\AnonymousType\obj\Debug\AnonymousType.pdb

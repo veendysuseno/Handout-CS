@@ -1,0 +1,7 @@
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\4 Dynamic Object And Variable\DynamicObjectAndVariable\bin\Debug\DynamicObjectAndVariable.exe.config
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\4 Dynamic Object And Variable\DynamicObjectAndVariable\bin\Debug\DynamicObjectAndVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\4 Dynamic Object And Variable\DynamicObjectAndVariable\bin\Debug\DynamicObjectAndVariable.pdb
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\4 Dynamic Object And Variable\DynamicObjectAndVariable\obj\Debug\DynamicObjectAndVariable.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\4 Dynamic Object And Variable\DynamicObjectAndVariable\obj\Debug\DynamicObjectAndVariable.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\4 Dynamic Object And Variable\DynamicObjectAndVariable\obj\Debug\DynamicObjectAndVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\4 Dynamic Object And Variable\DynamicObjectAndVariable\obj\Debug\DynamicObjectAndVariable.pdb

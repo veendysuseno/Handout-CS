@@ -1,0 +1,13 @@
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\bin\Debug\netcoreapp3.1\PrioritizingThread.exe
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\bin\Debug\netcoreapp3.1\PrioritizingThread.deps.json
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\bin\Debug\netcoreapp3.1\PrioritizingThread.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\bin\Debug\netcoreapp3.1\PrioritizingThread.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\bin\Debug\netcoreapp3.1\PrioritizingThread.dll
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\bin\Debug\netcoreapp3.1\PrioritizingThread.pdb
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\obj\Debug\netcoreapp3.1\PrioritizingThread.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\obj\Debug\netcoreapp3.1\PrioritizingThread.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\obj\Debug\netcoreapp3.1\PrioritizingThread.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\obj\Debug\netcoreapp3.1\PrioritizingThread.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\obj\Debug\netcoreapp3.1\PrioritizingThread.dll
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\obj\Debug\netcoreapp3.1\PrioritizingThread.pdb
+D:\Training Program\C#\9 Parallel Processing\6 PrioritizingThread\PrioritizingThread\obj\Debug\netcoreapp3.1\PrioritizingThread.genruntimeconfig.cache

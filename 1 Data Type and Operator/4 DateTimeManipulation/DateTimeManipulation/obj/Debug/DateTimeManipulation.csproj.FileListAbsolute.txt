@@ -1,0 +1,14 @@
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DateTimeManipulation\DateTimeManipulation\bin\Debug\DateTimeManipulation.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DateTimeManipulation\DateTimeManipulation\bin\Debug\DateTimeManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DateTimeManipulation\DateTimeManipulation\bin\Debug\DateTimeManipulation.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\4 DateTimeManipulation\DateTimeManipulation\bin\Debug\DateTimeManipulation.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\4 DateTimeManipulation\DateTimeManipulation\bin\Debug\DateTimeManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\4 DateTimeManipulation\DateTimeManipulation\bin\Debug\DateTimeManipulation.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\4 DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\4 DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\4 DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\4 DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.pdb

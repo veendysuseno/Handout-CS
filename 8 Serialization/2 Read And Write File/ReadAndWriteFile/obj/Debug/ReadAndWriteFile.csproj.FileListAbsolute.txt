@@ -1,0 +1,21 @@
+C:\Users\Boby\Desktop\C# Training Program\7 Files and Database\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\ReadAndWriteFile.exe.config
+C:\Users\Boby\Desktop\C# Training Program\7 Files and Database\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\ReadAndWriteFile.exe
+C:\Users\Boby\Desktop\C# Training Program\7 Files and Database\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\ReadAndWriteFile.pdb
+C:\Users\Boby\Desktop\C# Training Program\7 Files and Database\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\7 Files and Database\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\7 Files and Database\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.exe
+C:\Users\Boby\Desktop\C# Training Program\7 Files and Database\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.pdb
+C:\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\ReadAndWriteFile.exe.config
+C:\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\ReadAndWriteFile.exe
+C:\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\ReadAndWriteFile.pdb
+C:\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.csprojAssemblyReference.cache
+C:\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.csproj.CoreCompileInputs.cache
+C:\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.exe
+C:\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.pdb
+D:\Training Program\C#\8 Serialization\2 Read And Write File\ReadAndWriteFile\bin\Debug\ReadAndWriteFile.exe.config
+D:\Training Program\C#\8 Serialization\2 Read And Write File\ReadAndWriteFile\bin\Debug\ReadAndWriteFile.exe
+D:\Training Program\C#\8 Serialization\2 Read And Write File\ReadAndWriteFile\bin\Debug\ReadAndWriteFile.pdb
+D:\Training Program\C#\8 Serialization\2 Read And Write File\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.csprojAssemblyReference.cache
+D:\Training Program\C#\8 Serialization\2 Read And Write File\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\8 Serialization\2 Read And Write File\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.exe
+D:\Training Program\C#\8 Serialization\2 Read And Write File\ReadAndWriteFile\obj\Debug\ReadAndWriteFile.pdb

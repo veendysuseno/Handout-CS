@@ -1,0 +1,14 @@
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\7 Interface And Abstract Class\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\7 Interface And Abstract Class\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\7 Interface And Abstract Class\InterfaceAndAbstractClass\bin\Debug\InterfaceAndAbstractClass.exe.config
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\7 Interface And Abstract Class\InterfaceAndAbstractClass\bin\Debug\InterfaceAndAbstractClass.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\7 Interface And Abstract Class\InterfaceAndAbstractClass\bin\Debug\InterfaceAndAbstractClass.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\7 Interface And Abstract Class\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\7 Interface And Abstract Class\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.pdb
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Interface And Abstract Class\InterfaceAndAbstractClass\bin\Debug\InterfaceAndAbstractClass.exe.config
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Interface And Abstract Class\InterfaceAndAbstractClass\bin\Debug\InterfaceAndAbstractClass.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Interface And Abstract Class\InterfaceAndAbstractClass\bin\Debug\InterfaceAndAbstractClass.pdb
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Interface And Abstract Class\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Interface And Abstract Class\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Interface And Abstract Class\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.exe
+C:\Users\Boby\Desktop\C# Training Program\6 More on OOP\1 Interface And Abstract Class\InterfaceAndAbstractClass\obj\Debug\InterfaceAndAbstractClass.pdb

@@ -1,0 +1,14 @@
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8. Queue Collection\QueueCollection\bin\Debug\QueueCollection.exe.config
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8. Queue Collection\QueueCollection\bin\Debug\QueueCollection.exe
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8. Queue Collection\QueueCollection\bin\Debug\QueueCollection.pdb
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8. Queue Collection\QueueCollection\obj\Debug\QueueCollection.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8. Queue Collection\QueueCollection\obj\Debug\QueueCollection.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8. Queue Collection\QueueCollection\obj\Debug\QueueCollection.exe
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8. Queue Collection\QueueCollection\obj\Debug\QueueCollection.pdb
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8 Queue Collection\QueueCollection\bin\Debug\QueueCollection.exe.config
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8 Queue Collection\QueueCollection\bin\Debug\QueueCollection.exe
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8 Queue Collection\QueueCollection\bin\Debug\QueueCollection.pdb
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8 Queue Collection\QueueCollection\obj\Debug\QueueCollection.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8 Queue Collection\QueueCollection\obj\Debug\QueueCollection.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8 Queue Collection\QueueCollection\obj\Debug\QueueCollection.exe
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\8 Queue Collection\QueueCollection\obj\Debug\QueueCollection.pdb

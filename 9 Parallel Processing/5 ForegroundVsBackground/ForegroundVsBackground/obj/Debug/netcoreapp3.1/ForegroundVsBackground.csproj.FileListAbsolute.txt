@@ -1,0 +1,13 @@
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\bin\Debug\netcoreapp3.1\ForegroundVsBackground.exe
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\bin\Debug\netcoreapp3.1\ForegroundVsBackground.deps.json
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\bin\Debug\netcoreapp3.1\ForegroundVsBackground.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\bin\Debug\netcoreapp3.1\ForegroundVsBackground.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\bin\Debug\netcoreapp3.1\ForegroundVsBackground.dll
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\bin\Debug\netcoreapp3.1\ForegroundVsBackground.pdb
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\obj\Debug\netcoreapp3.1\ForegroundVsBackground.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\obj\Debug\netcoreapp3.1\ForegroundVsBackground.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\obj\Debug\netcoreapp3.1\ForegroundVsBackground.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\obj\Debug\netcoreapp3.1\ForegroundVsBackground.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\obj\Debug\netcoreapp3.1\ForegroundVsBackground.dll
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\obj\Debug\netcoreapp3.1\ForegroundVsBackground.pdb
+D:\Training Program\C#\9 Parallel Processing\5 ForegroundVsBackground\ForegroundVsBackground\obj\Debug\netcoreapp3.1\ForegroundVsBackground.genruntimeconfig.cache

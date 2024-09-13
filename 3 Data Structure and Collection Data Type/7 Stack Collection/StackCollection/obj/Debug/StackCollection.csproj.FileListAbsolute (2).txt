@@ -1,0 +1,14 @@
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7. Stack Collection\StackCollection\bin\Debug\StackCollection.exe.config
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7. Stack Collection\StackCollection\bin\Debug\StackCollection.exe
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7. Stack Collection\StackCollection\bin\Debug\StackCollection.pdb
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7. Stack Collection\StackCollection\obj\Debug\StackCollection.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7. Stack Collection\StackCollection\obj\Debug\StackCollection.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7. Stack Collection\StackCollection\obj\Debug\StackCollection.exe
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7. Stack Collection\StackCollection\obj\Debug\StackCollection.pdb
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7 Stack Collection\StackCollection\bin\Debug\StackCollection.exe.config
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7 Stack Collection\StackCollection\bin\Debug\StackCollection.exe
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7 Stack Collection\StackCollection\bin\Debug\StackCollection.pdb
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7 Stack Collection\StackCollection\obj\Debug\StackCollection.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7 Stack Collection\StackCollection\obj\Debug\StackCollection.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7 Stack Collection\StackCollection\obj\Debug\StackCollection.exe
+C:\Users\Boby\Desktop\C# Training Program\3 Data Structure and Collection Data Type\7 Stack Collection\StackCollection\obj\Debug\StackCollection.pdb

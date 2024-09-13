@@ -1,0 +1,22 @@
+[
+  {
+    "Visit": "Activity A",
+    "Cost": 200000
+  },
+  {
+    "Visit": "Activity B",
+    "Cost": 100000
+  },
+  {
+    "Visit": "Activity C",
+    "Cost": 300000
+  },
+  {
+    "Visit": "Activity D",
+    "Cost": 350000
+  },
+  {
+    "Visit": "Activity E",
+    "Cost": 250000
+  }
+]

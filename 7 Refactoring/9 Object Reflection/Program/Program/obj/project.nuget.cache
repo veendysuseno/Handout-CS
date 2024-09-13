@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NgXlUWXRZuK6Tjjx5Ei4bYcCcFISXwwHsFiV6UAZ8n6gdyzRo44mqp9i3cRRYeoo6NfclBlH69q2sGcvcFgiw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\7 Refactoring\\9 Object Reflection\\Program\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boby Widjaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

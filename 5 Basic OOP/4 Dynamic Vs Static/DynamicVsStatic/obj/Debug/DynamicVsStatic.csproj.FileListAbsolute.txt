@@ -1,0 +1,7 @@
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\4 Dynamic Vs Static\DynamicVsStatic\bin\Debug\DynamicVsStatic.exe.config
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\4 Dynamic Vs Static\DynamicVsStatic\bin\Debug\DynamicVsStatic.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\4 Dynamic Vs Static\DynamicVsStatic\bin\Debug\DynamicVsStatic.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\4 Dynamic Vs Static\DynamicVsStatic\obj\Debug\DynamicVsStatic.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\4 Dynamic Vs Static\DynamicVsStatic\obj\Debug\DynamicVsStatic.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\4 Dynamic Vs Static\DynamicVsStatic\obj\Debug\DynamicVsStatic.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\4 Dynamic Vs Static\DynamicVsStatic\obj\Debug\DynamicVsStatic.pdb

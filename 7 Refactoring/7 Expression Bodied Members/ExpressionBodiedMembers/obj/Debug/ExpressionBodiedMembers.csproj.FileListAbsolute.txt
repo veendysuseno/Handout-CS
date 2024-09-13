@@ -1,0 +1,14 @@
+C:\Users\Boby\Desktop\C# Training Program\7 System Design\ExpressionBodiedMembers\ExpressionBodiedMembers\bin\Debug\ExpressionBodiedMembers.exe.config
+C:\Users\Boby\Desktop\C# Training Program\7 System Design\ExpressionBodiedMembers\ExpressionBodiedMembers\bin\Debug\ExpressionBodiedMembers.exe
+C:\Users\Boby\Desktop\C# Training Program\7 System Design\ExpressionBodiedMembers\ExpressionBodiedMembers\bin\Debug\ExpressionBodiedMembers.pdb
+C:\Users\Boby\Desktop\C# Training Program\7 System Design\ExpressionBodiedMembers\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\7 System Design\ExpressionBodiedMembers\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\7 System Design\ExpressionBodiedMembers\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.exe
+C:\Users\Boby\Desktop\C# Training Program\7 System Design\ExpressionBodiedMembers\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.pdb
+D:\Training Program\C#\7 Refactoring\7 Expression Bodied Members\ExpressionBodiedMembers\bin\Debug\ExpressionBodiedMembers.exe.config
+D:\Training Program\C#\7 Refactoring\7 Expression Bodied Members\ExpressionBodiedMembers\bin\Debug\ExpressionBodiedMembers.exe
+D:\Training Program\C#\7 Refactoring\7 Expression Bodied Members\ExpressionBodiedMembers\bin\Debug\ExpressionBodiedMembers.pdb
+D:\Training Program\C#\7 Refactoring\7 Expression Bodied Members\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.csprojAssemblyReference.cache
+D:\Training Program\C#\7 Refactoring\7 Expression Bodied Members\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\7 Refactoring\7 Expression Bodied Members\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.exe
+D:\Training Program\C#\7 Refactoring\7 Expression Bodied Members\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.pdb

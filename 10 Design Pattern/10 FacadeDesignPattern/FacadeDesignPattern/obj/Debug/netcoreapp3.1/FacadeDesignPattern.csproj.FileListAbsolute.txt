@@ -1,0 +1,13 @@
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.exe
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.deps.json
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.json
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.dev.json
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csprojAssemblyReference.cache
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfoInputs.cache
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfo.cs
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\10 FacadeDesignPattern\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.genruntimeconfig.cache

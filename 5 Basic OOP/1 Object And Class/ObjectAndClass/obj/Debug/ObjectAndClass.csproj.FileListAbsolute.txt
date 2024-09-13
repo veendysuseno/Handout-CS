@@ -1,0 +1,7 @@
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\1 Object And Class\ObjectAndClass\bin\Debug\ObjectAndClass.exe.config
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\1 Object And Class\ObjectAndClass\bin\Debug\ObjectAndClass.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\1 Object And Class\ObjectAndClass\bin\Debug\ObjectAndClass.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\1 Object And Class\ObjectAndClass\obj\Debug\ObjectAndClass.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\1 Object And Class\ObjectAndClass\obj\Debug\ObjectAndClass.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\1 Object And Class\ObjectAndClass\obj\Debug\ObjectAndClass.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\1 Object And Class\ObjectAndClass\obj\Debug\ObjectAndClass.pdb

@@ -1,0 +1,26 @@
+{
+  "Id": 3,
+  "RegisterDate": "2018-07-22T00:00:00",
+  "Nama": "Indomaret",
+  "Alamat": "Taman Ratu",
+  "ProducsOnSale": [
+    {
+      "Id": 2,
+      "Nama": "Biscuit Regal",
+      "Deskripsi": "Makanan ringan sehat yang baik untuk pencernaan.",
+      "Harga": 25000
+    },
+    {
+      "Id": 4,
+      "Nama": "Yakult",
+      "Deskripsi": "Susu Fermentasi",
+      "Harga": 15000
+    },
+    {
+      "Id": 6,
+      "Nama": "Silverqueen",
+      "Deskripsi": "Coklat susu dengan kacang cashew.",
+      "Harga": 12000
+    }
+  ]
+}

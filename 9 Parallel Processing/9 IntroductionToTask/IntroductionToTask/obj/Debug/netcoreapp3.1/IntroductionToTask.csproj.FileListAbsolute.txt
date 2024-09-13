@@ -1,0 +1,13 @@
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\bin\Debug\netcoreapp3.1\IntroductionToTask.exe
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\bin\Debug\netcoreapp3.1\IntroductionToTask.deps.json
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\bin\Debug\netcoreapp3.1\IntroductionToTask.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\bin\Debug\netcoreapp3.1\IntroductionToTask.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\bin\Debug\netcoreapp3.1\IntroductionToTask.dll
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\bin\Debug\netcoreapp3.1\IntroductionToTask.pdb
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\obj\Debug\netcoreapp3.1\IntroductionToTask.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\obj\Debug\netcoreapp3.1\IntroductionToTask.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\obj\Debug\netcoreapp3.1\IntroductionToTask.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\obj\Debug\netcoreapp3.1\IntroductionToTask.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\obj\Debug\netcoreapp3.1\IntroductionToTask.dll
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\obj\Debug\netcoreapp3.1\IntroductionToTask.pdb
+D:\Training Program\C#\9 Parallel Processing\9 IntroductionToTask\IntroductionToTask\obj\Debug\netcoreapp3.1\IntroductionToTask.genruntimeconfig.cache

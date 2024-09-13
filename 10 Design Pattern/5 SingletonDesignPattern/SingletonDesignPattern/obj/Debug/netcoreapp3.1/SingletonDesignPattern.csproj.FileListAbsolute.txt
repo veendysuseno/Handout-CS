@@ -1,0 +1,26 @@
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.exe
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.deps.json
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.runtimeconfig.json
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.runtimeconfig.dev.json
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.dll
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.pdb
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.csprojAssemblyReference.cache
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.AssemblyInfoInputs.cache
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.AssemblyInfo.cs
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.dll
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.pdb
+E:\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.genruntimeconfig.cache
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.exe
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.deps.json
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.runtimeconfig.json
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.runtimeconfig.dev.json
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.dll
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.pdb
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.csprojAssemblyReference.cache
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.dll
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.pdb
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.genruntimeconfig.cache

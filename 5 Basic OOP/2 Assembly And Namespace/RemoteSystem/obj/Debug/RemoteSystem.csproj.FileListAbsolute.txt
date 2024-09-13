@@ -1,0 +1,18 @@
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\RemoteSystem\bin\Debug\RemoteSystem.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\RemoteSystem\bin\Debug\RemoteSystem.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\RemoteSystem\bin\Debug\RemoteSystem.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\RemoteSystem\bin\Debug\RemoteSystem.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.pdb
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\RemoteSystem\bin\Debug\RemoteSystem.dll
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\RemoteSystem\bin\Debug\RemoteSystem.pdb
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.csprojAssemblyReference.cache
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.dll
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\RemoteSystem\obj\Debug\RemoteSystem.pdb

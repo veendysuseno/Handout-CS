@@ -1,0 +1,28 @@
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\StringManipulation\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\StringManipulation\StringManipulation\obj\Debug\StringManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\StringManipulation\StringManipulation\obj\Debug\StringManipulation.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3StringManipulation\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3StringManipulation\StringManipulation\obj\Debug\StringManipulation.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3StringManipulation\StringManipulation\obj\Debug\StringManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3StringManipulation\StringManipulation\obj\Debug\StringManipulation.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3 StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3 StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3 StringManipulation\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3 StringManipulation\StringManipulation\obj\Debug\StringManipulation.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3 StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3 StringManipulation\StringManipulation\obj\Debug\StringManipulation.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\3 StringManipulation\StringManipulation\obj\Debug\StringManipulation.pdb
+D:\Training Program\C#\1 Data Type and Operator\3 StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe.config
+D:\Training Program\C#\1 Data Type and Operator\3 StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe
+D:\Training Program\C#\1 Data Type and Operator\3 StringManipulation\StringManipulation\bin\Debug\StringManipulation.pdb
+D:\Training Program\C#\1 Data Type and Operator\3 StringManipulation\StringManipulation\obj\Debug\StringManipulation.csprojAssemblyReference.cache
+D:\Training Program\C#\1 Data Type and Operator\3 StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\1 Data Type and Operator\3 StringManipulation\StringManipulation\obj\Debug\StringManipulation.exe
+D:\Training Program\C#\1 Data Type and Operator\3 StringManipulation\StringManipulation\obj\Debug\StringManipulation.pdb

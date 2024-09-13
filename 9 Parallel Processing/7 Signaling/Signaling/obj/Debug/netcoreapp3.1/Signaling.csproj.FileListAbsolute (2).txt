@@ -1,0 +1,13 @@
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\bin\Debug\netcoreapp3.1\Signaling.exe
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\bin\Debug\netcoreapp3.1\Signaling.deps.json
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\bin\Debug\netcoreapp3.1\Signaling.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\bin\Debug\netcoreapp3.1\Signaling.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\bin\Debug\netcoreapp3.1\Signaling.dll
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\bin\Debug\netcoreapp3.1\Signaling.pdb
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\obj\Debug\netcoreapp3.1\Signaling.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\obj\Debug\netcoreapp3.1\Signaling.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\obj\Debug\netcoreapp3.1\Signaling.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\obj\Debug\netcoreapp3.1\Signaling.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\obj\Debug\netcoreapp3.1\Signaling.dll
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\obj\Debug\netcoreapp3.1\Signaling.pdb
+D:\Training Program\C#\9 Parallel Processing\7 Signaling\Signaling\obj\Debug\netcoreapp3.1\Signaling.genruntimeconfig.cache

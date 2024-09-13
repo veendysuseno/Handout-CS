@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AvQd3djoJAire9Cizl0LZpifklOzwg+vPUHLAmoiLD0y9cpbV3a2S93aoS8dfvGjVwvMvebaw1/QM8gPAW45qg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\8 Serialization\\5 SerializingJSON\\SerializingJSON\\SerializingJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boby Widjaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.exe
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.deps.json
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.runtimeconfig.json
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.runtimeconfig.dev.json
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.dll
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\netcoreapp3.1\ProxyDesignPattern.pdb
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.csprojAssemblyReference.cache
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.AssemblyInfoInputs.cache
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.AssemblyInfo.cs
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.dll
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.pdb
+D:\Training Program\.NET Framework\C# Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\netcoreapp3.1\ProxyDesignPattern.genruntimeconfig.cache

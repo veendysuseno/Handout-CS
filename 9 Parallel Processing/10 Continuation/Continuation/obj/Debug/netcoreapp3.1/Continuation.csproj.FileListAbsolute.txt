@@ -1,0 +1,13 @@
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\bin\Debug\netcoreapp3.1\Continuation.exe
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\bin\Debug\netcoreapp3.1\Continuation.deps.json
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\bin\Debug\netcoreapp3.1\Continuation.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\bin\Debug\netcoreapp3.1\Continuation.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\bin\Debug\netcoreapp3.1\Continuation.dll
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\bin\Debug\netcoreapp3.1\Continuation.pdb
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\obj\Debug\netcoreapp3.1\Continuation.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\obj\Debug\netcoreapp3.1\Continuation.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\obj\Debug\netcoreapp3.1\Continuation.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\obj\Debug\netcoreapp3.1\Continuation.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\obj\Debug\netcoreapp3.1\Continuation.dll
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\obj\Debug\netcoreapp3.1\Continuation.pdb
+D:\Training Program\C#\9 Parallel Processing\10 Continuation\Continuation\obj\Debug\netcoreapp3.1\Continuation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DecimalFormat\DecimalFormat\bin\Debug\DecimalFormat.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DecimalFormat\DecimalFormat\bin\Debug\DecimalFormat.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DecimalFormat\DecimalFormat\bin\Debug\DecimalFormat.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DecimalFormat\DecimalFormat\obj\Debug\DecimalFormat.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DecimalFormat\DecimalFormat\obj\Debug\DecimalFormat.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DecimalFormat\DecimalFormat\obj\Debug\DecimalFormat.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\DecimalFormat\DecimalFormat\obj\Debug\DecimalFormat.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\5 Decimal Format\DecimalFormat\bin\Debug\DecimalFormat.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\5 Decimal Format\DecimalFormat\bin\Debug\DecimalFormat.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\5 Decimal Format\DecimalFormat\bin\Debug\DecimalFormat.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\5 Decimal Format\DecimalFormat\obj\Debug\DecimalFormat.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\5 Decimal Format\DecimalFormat\obj\Debug\DecimalFormat.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\5 Decimal Format\DecimalFormat\obj\Debug\DecimalFormat.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\5 Decimal Format\DecimalFormat\obj\Debug\DecimalFormat.pdb

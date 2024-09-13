@@ -1,0 +1,14 @@
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\OperatorAndParse\OperatorAndParse\bin\Debug\OperatorAndParse.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\OperatorAndParse\OperatorAndParse\bin\Debug\OperatorAndParse.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\OperatorAndParse\OperatorAndParse\bin\Debug\OperatorAndParse.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\OperatorAndParse\OperatorAndParse\obj\Debug\OperatorAndParse.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\OperatorAndParse\OperatorAndParse\obj\Debug\OperatorAndParse.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\OperatorAndParse\OperatorAndParse\obj\Debug\OperatorAndParse.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\OperatorAndParse\OperatorAndParse\obj\Debug\OperatorAndParse.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\2 OperatorAndParse\OperatorAndParse\bin\Debug\OperatorAndParse.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\2 OperatorAndParse\OperatorAndParse\bin\Debug\OperatorAndParse.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\2 OperatorAndParse\OperatorAndParse\bin\Debug\OperatorAndParse.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\2 OperatorAndParse\OperatorAndParse\obj\Debug\OperatorAndParse.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\2 OperatorAndParse\OperatorAndParse\obj\Debug\OperatorAndParse.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\2 OperatorAndParse\OperatorAndParse\obj\Debug\OperatorAndParse.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\2 OperatorAndParse\OperatorAndParse\obj\Debug\OperatorAndParse.pdb

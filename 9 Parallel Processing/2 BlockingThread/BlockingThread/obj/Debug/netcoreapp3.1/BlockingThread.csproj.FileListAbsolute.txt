@@ -1,0 +1,13 @@
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\bin\Debug\netcoreapp3.1\BlockingThread.exe
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\bin\Debug\netcoreapp3.1\BlockingThread.deps.json
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\bin\Debug\netcoreapp3.1\BlockingThread.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\bin\Debug\netcoreapp3.1\BlockingThread.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\bin\Debug\netcoreapp3.1\BlockingThread.dll
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\bin\Debug\netcoreapp3.1\BlockingThread.pdb
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\obj\Debug\netcoreapp3.1\BlockingThread.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\obj\Debug\netcoreapp3.1\BlockingThread.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\obj\Debug\netcoreapp3.1\BlockingThread.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\obj\Debug\netcoreapp3.1\BlockingThread.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\obj\Debug\netcoreapp3.1\BlockingThread.dll
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\obj\Debug\netcoreapp3.1\BlockingThread.pdb
+D:\Training Program\C#\9 Parallel Processing\2 BlockingThread\BlockingThread\obj\Debug\netcoreapp3.1\BlockingThread.genruntimeconfig.cache

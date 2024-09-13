@@ -1,0 +1,6 @@
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\6 Encapsulation\External\bin\Debug\External.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\6 Encapsulation\External\bin\Debug\External.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\6 Encapsulation\External\obj\Debug\External.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\6 Encapsulation\External\obj\Debug\External.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\6 Encapsulation\External\obj\Debug\External.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\6 Encapsulation\External\obj\Debug\External.pdb

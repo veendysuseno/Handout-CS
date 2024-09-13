@@ -1,0 +1,32 @@
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.exe
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.deps.json
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.runtimeconfig.json
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.runtimeconfig.dev.json
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.dll
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.pdb
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.csprojAssemblyReference.cache
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.AssemblyInfoInputs.cache
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.AssemblyInfo.cs
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.csproj.CopyComplete
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.dll
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.pdb
+C:\Users\Boby Widjaja\Desktop\11 Generic\GenericTemplate\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.genruntimeconfig.cache
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.csprojAssemblyReference.cache
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.AssemblyInfoInputs.cache
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.AssemblyInfo.cs
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.dll
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.pdb
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.exe
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.deps.json
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.runtimeconfig.json
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.runtimeconfig.dev.json
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.dll
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\bin\Debug\netcoreapp3.1\GenericTemplate.pdb
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.csproj.CopyComplete
+D:\Training Program\C#\7 Refactoring\11 Generic Template\GenericTemplate\obj\Debug\netcoreapp3.1\GenericTemplate.genruntimeconfig.cache

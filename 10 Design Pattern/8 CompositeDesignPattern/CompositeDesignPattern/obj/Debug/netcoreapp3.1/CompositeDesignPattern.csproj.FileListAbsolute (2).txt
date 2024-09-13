@@ -1,0 +1,13 @@
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.exe
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.deps.json
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.runtimeconfig.json
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.runtimeconfig.dev.json
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.csprojAssemblyReference.cache
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.AssemblyInfoInputs.cache
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.AssemblyInfo.cs
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\8 CompositeDesignPattern\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.genruntimeconfig.cache

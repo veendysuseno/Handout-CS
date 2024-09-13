@@ -1,0 +1,6 @@
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\bin\Release\IntroductionToVariable.exe.config
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\bin\Release\IntroductionToVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\bin\Release\IntroductionToVariable.pdb
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\obj\Release\IntroductionToVariable.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\obj\Release\IntroductionToVariable.exe
+C:\Users\Boby\Desktop\C# Training Program\1 Data Type and Operator\IntroductionToVariable\IntroductionToVariable\obj\Release\IntroductionToVariable.pdb

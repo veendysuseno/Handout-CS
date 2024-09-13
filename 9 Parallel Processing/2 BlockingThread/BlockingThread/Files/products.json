@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 2,
+    "Name": "Biscuit Regal",
+    "Description": "Makanan ringan sehat yang baik untuk pencernaan.",
+    "Stock": 250,
+    "Price": 25000
+  },
+  {
+    "Id": 4,
+    "Name": "Yakult",
+    "Description": "Susu Fermentasi",
+    "Stock": 50,
+    "Price": 15000
+  },
+  {
+    "Id": 6,
+    "Name": "Silverqueen",
+    "Description": "Coklat susu dengan kacang cashew.",
+    "Stock": 80,
+    "Price": 12000
+  }
+]

@@ -1,0 +1,39 @@
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.exe
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.deps.json
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.json
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.dev.json
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csprojAssemblyReference.cache
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+C:\Users\Boby Widjaja\Desktop\C# Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.genruntimeconfig.cache
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.exe
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.deps.json
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.json
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.dev.json
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csprojAssemblyReference.cache
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfoInputs.cache
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfo.cs
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.genruntimeconfig.cache
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.exe
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.deps.json
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.json
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.dev.json
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csprojAssemblyReference.cache
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfoInputs.cache
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfo.cs
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\7 BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.exe
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.deps.json
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.runtimeconfig.json
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.runtimeconfig.dev.json
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.csprojAssemblyReference.cache
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.AssemblyInfoInputs.cache
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.AssemblyInfo.cs
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.genruntimeconfig.cache
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.exe
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.deps.json
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.runtimeconfig.json
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.runtimeconfig.dev.json
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\netcoreapp3.1\PrototypeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.csprojAssemblyReference.cache
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.AssemblyInfoInputs.cache
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.AssemblyInfo.cs
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\4 PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\netcoreapp3.1\PrototypeDesignPattern.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="3">
+  <Nama>Indomaret</Nama>
+  <Alamat>Taman Ratu</Alamat>
+  <TanggalRegister>2018-07-22T00:00:00</TanggalRegister>
+  <ProdukJualan id="2">
+    <Nama>Biscuit Regal</Nama>
+    <Harga>25000</Harga>
+    <Deskripsi>Makanan ringan sehat yang baik untuk pencernaan.</Deskripsi>
+  </ProdukJualan>
+  <ProdukJualan id="4">
+    <Nama>Yakult</Nama>
+    <Harga>15000</Harga>
+    <Deskripsi>Susu Fermentasi</Deskripsi>
+  </ProdukJualan>
+  <ProdukJualan id="6">
+    <Nama>Silverqueen</Nama>
+    <Harga>12000</Harga>
+    <Deskripsi>Coklat susu dengan kacang cashew.</Deskripsi>
+  </ProdukJualan>
+</Store>

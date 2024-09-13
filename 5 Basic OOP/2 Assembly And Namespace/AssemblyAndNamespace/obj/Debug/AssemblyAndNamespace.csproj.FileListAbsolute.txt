@@ -1,0 +1,36 @@
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\AssemblyAndNamespace.exe.config
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\AssemblyAndNamespace.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\AssemblyAndNamespace.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\ExternalProject.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\RemoteSystem.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\ExternalProject.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\RemoteSystem.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.csproj.CopyComplete
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\AssemblyAndNamespace.exe.config
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\AssemblyAndNamespace.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\AssemblyAndNamespace.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\ExternalProject.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\RemoteSystem.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\ExternalProject.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\RemoteSystem.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.csproj.CopyComplete
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.exe
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.pdb
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\AssemblyAndNamespace.exe.config
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\AssemblyAndNamespace.exe
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\AssemblyAndNamespace.pdb
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\ExternalProject.dll
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\RemoteSystem.dll
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\ExternalProject.pdb
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\bin\Debug\RemoteSystem.pdb
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.csprojAssemblyReference.cache
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.csproj.CopyComplete
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.exe
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\AssemblyAndNamespace\obj\Debug\AssemblyAndNamespace.pdb

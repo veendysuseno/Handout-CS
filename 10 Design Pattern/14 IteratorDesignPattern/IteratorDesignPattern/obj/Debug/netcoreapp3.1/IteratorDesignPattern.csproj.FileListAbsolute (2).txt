@@ -1,0 +1,13 @@
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.exe
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.deps.json
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.runtimeconfig.json
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.runtimeconfig.dev.json
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.csprojAssemblyReference.cache
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.AssemblyInfoInputs.cache
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.AssemblyInfo.cs
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.dll
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.pdb
+D:\Training Program\C#\10 Design Pattern\14 IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.genruntimeconfig.cache

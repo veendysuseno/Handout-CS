@@ -1,0 +1,13 @@
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\bin\Debug\netcoreapp3.1\CustomizeTask.exe
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\bin\Debug\netcoreapp3.1\CustomizeTask.deps.json
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\bin\Debug\netcoreapp3.1\CustomizeTask.runtimeconfig.json
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\bin\Debug\netcoreapp3.1\CustomizeTask.runtimeconfig.dev.json
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\bin\Debug\netcoreapp3.1\CustomizeTask.dll
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\bin\Debug\netcoreapp3.1\CustomizeTask.pdb
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\obj\Debug\netcoreapp3.1\CustomizeTask.csprojAssemblyReference.cache
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\obj\Debug\netcoreapp3.1\CustomizeTask.AssemblyInfoInputs.cache
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\obj\Debug\netcoreapp3.1\CustomizeTask.AssemblyInfo.cs
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\obj\Debug\netcoreapp3.1\CustomizeTask.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\obj\Debug\netcoreapp3.1\CustomizeTask.dll
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\obj\Debug\netcoreapp3.1\CustomizeTask.pdb
+D:\Training Program\C#\9 Parallel Processing\11 CustomizeTask\CustomizeTask\obj\Debug\netcoreapp3.1\CustomizeTask.genruntimeconfig.cache

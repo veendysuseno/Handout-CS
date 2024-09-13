@@ -1,0 +1,18 @@
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\ExternalProject\bin\Debug\ExternalProject.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\ExternalProject\bin\Debug\ExternalProject.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\3 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\ExternalProject\bin\Debug\ExternalProject.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\ExternalProject\bin\Debug\ExternalProject.pdb
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.csprojAssemblyReference.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.csproj.CoreCompileInputs.cache
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.dll
+C:\Users\Boby\Desktop\C# Training Program\5 Object Oriented Programming\2 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.pdb
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\ExternalProject\bin\Debug\ExternalProject.dll
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\ExternalProject\bin\Debug\ExternalProject.pdb
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.csprojAssemblyReference.cache
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.csproj.CoreCompileInputs.cache
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.dll
+D:\Training Program\C#\5 Basic OOP\2 Assembly And Namespace\ExternalProject\obj\Debug\ExternalProject.pdb
